@@ -29,8 +29,7 @@ I have worked on various MERN stack projects that solve real-world problems and 
 ## 🤝 Let's Connect
 
 - **GitHub:** [@gouranshvaishnavji](https://github.com/gouranshvaishnavji)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+
 
 Feel free to reach out if you're interested in collaborating or simply want to chat about technology and innovation!
 
