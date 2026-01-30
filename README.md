@@ -9,12 +9,12 @@ I'm a passionate full-stack developer with a strong focus on the MERN stack. I e
 -  Ask me about full-stack development, RESTful APIs, or containerization with Docker!
 -  I also have a strong background in object-oriented programming and problem solving in Java, which has helped me build robust and maintainable applications.
 
-## 🛠️ Skills
+## My Skills
 
-- **Languages:** JavaScript, HTML, CSS, Python, Java (OOP & Problem Solving)
-- **Backend:** Node.js, Express.js
+- **Languages:** JavaScript, HTML, CSS, Python, Java for OOP & Problem Solving
+- **Backend:** Node.js, Express.js, learning SpringBoot
 - **Frontend:** React.js, Redux
-- **Database:** MongoDB, SQL
+- **Database:** MongoDB, SQL, PgSql
 - **Tools & Platforms:** Docker, Multer, Figma, Git, RESTful APIs
 - **DevOps:** CI/CD, Containerization, Cloud Services
 
