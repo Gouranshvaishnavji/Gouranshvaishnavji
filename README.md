@@ -1,10 +1,9 @@
-# Hi there, I'm Gouransh Vaishnavji 
+#  I'm Gouransh Vaishnavji 
 
-I'm a passionate full-stack developer with a strong focus on the MERN stack. I enjoy building scalable, high-performance web applications and leveraging a variety of tools to streamline both development and design processes.
-
+I'm a ASPIRATED full-stack developer with a strong focus on the PERN stack and FastAPi with midset to make scalable, secure and efficient agentic tools. 
 ##  About Me
 
--  I’m currently working on innovative projects using the MERN stack (MongoDB, Express, React, Node.js).
+-  I’m currently working on innovative projects using the MERN stack (PostgreSQL, Mongo, Express, React, Node.js).
 -  I'm continuously learning and integrating tools like Docker, Multer, and Figma into my workflow to improve development efficiency and design quality.
 -  Ask me about full-stack development, RESTful APIs, or containerization with Docker!
 -  I also have a strong background in object-oriented programming and problem solving in Java, which has helped me build robust and maintainable applications.
@@ -19,12 +18,14 @@ I'm a passionate full-stack developer with a strong focus on the MERN stack. I e
 - **DevOps:** CI/CD, Containerization, Cloud Services
 
 ##  Projects
+### [Ebook AI](https://github.com/Gouranshvaishnavji/RAG_learning)
+A website that will show you what i am currently learning in agentic AI workflow and its current state will show how good have i become in orchestating model to be of more use to us.
 
 ### [ChecWeatherWithMe](https://checweatherwithme.netlify.app/)
 A dynamic weather application built with React that provides real-time weather updates with a user-friendly interface.
 
-### [MERN Stack Projects](#)
-I have worked on various MERN stack projects that solve real-world problems and showcase my ability to build end-to-end applications.
+### [MERN Stack Projects](github.com/gouranshvaishnavji/GvPcWorld-mern)
+i have worked on various MERN stack projects that solve real-world problems and showcase my ability to build end-to-end applications. hooray i am moving to postgres in db and will use its jsonb to our advantage in db design so please do look at My db designing logs.
 
 ##  Let's Connect
 
