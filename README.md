@@ -1,4 +1,4 @@
-#  I'm Gouransh Vaishnavji 
+#  I'm [Gouransh Vaishnavji](https://docs.google.com/document/d/15Xi-jwQnR-aNi2ksjbUwf9KZTqchodAlH212BYlfGAc/edit?usp=sharing) 
 
 I'm a ASPIRATED full-stack developer with a strong focus on the PERN stack and FastAPi with midset to make scalable, secure and efficient agentic tools. 
 ##  About Me
