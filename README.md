@@ -21,16 +21,13 @@ I'm a ASPIRATED full-stack developer with a strong focus on the PERN stack and F
 ### [Ebook AI](https://github.com/Gouranshvaishnavji/RAG_learning)
 A website that will show you what i am currently learning in agentic AI workflow and its current state will show how good have i become in orchestating model to be of more use to us.
 
-### [ChecWeatherWithMe](https://checweatherwithme.netlify.app/)
-A dynamic weather application built with React that provides real-time weather updates with a user-friendly interface.
-
 ### [MERN Stack Projects](github.com/gouranshvaishnavji/GvPcWorld-mern)
 i have worked on various MERN stack projects that solve real-world problems and showcase my ability to build end-to-end applications. hooray i am moving to postgres in db and will use its jsonb to our advantage in db design so please do look at My db designing logs.
 
 ##  Let's Connect
 
 - **GitHub:** [@gouranshvaishnavji](https://github.com/gouranshvaishnavji)
-
+#### [my leet](https://leetcode.com/u/Gouransh29)
 
 Feel free to reach out if you're interested in collaborating or simply want to chat about technology and innovation!
 
